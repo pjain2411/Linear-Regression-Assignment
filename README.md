@@ -1,11 +1,13 @@
 # Linear-Regression-Assignment
 
 Problem Statement
+
 This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of car prices. You will need to submit a Jupyter notebook for the same. 
 
  
 
 Problem Statement
+
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. 
 
  
